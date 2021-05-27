@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527929197200",
+    "firebase_url": "https://health-essentials-app-default-rtdb.firebaseio.com",
+    "project_id": "health-essentials-app",
+    "storage_bucket": "health-essentials-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527929197200:android:85bc6e6316849e1eae4e15",
+        "android_client_info": {
+          "package_name": "com.android.healthessentialsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527929197200-gpqnhg7a16tlm3cjes2tbmakundtkvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHvJNzy9NaWBY2UmCsJZA11NQr-QifRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527929197200-gpqnhg7a16tlm3cjes2tbmakundtkvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
